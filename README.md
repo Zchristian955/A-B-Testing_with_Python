@@ -21,12 +21,12 @@ auction_id: the unique id of the online user who has been presented the BIO. In 
 - ``browser:`` the name of the browser the user uses to see the BIO questionnaire.\
 
 
-### Solution :The A/B testing framework is the most used statistical framework for making gradual but important changes in every aspect of today’s business
+## Solution :The A/B testing framework is the most used statistical framework for making gradual but important changes in every aspect of today’s business
 
 How does the classical A/B testing (using z-test, f-test, etc.) framework work?
 The type of test chosen should be based on the sample size and what form you want your hypotheses to test. If you are looking for a specific effect from A/B test, then opt for a z-test or t-test depending on sample size and the knowledge of the population variance. If you want to show that a relationship merely exists, the Fisher’s exact test is appropriate.
 
-### Advantages of sequential A/B testing 
+## Advantages of sequential A/B testing 
 
 -	Optimize necessary observation (sample size)
 - Reduce the likelihood of error
